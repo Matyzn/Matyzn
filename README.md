@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Matyzn
+- 👀 I’m interested in math and programming
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on programming for unwind each other
